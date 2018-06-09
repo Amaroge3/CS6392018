@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UISample</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstname">Andi</string>
+    <string name="lastName">Maroge</string>
+    <string name="firstCourse">CS 639</string>
+    <string name="secondCourse">CS 624</string>
+</resources>
