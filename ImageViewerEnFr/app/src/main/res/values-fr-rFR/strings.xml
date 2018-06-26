@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Settings</string>
+    <string name="dolphins">Dauphin Lac</string>
+    <string name="wynnLake">Wynn Lac</string>
+    <string name="tower">La tour</string>
+    <string name="lake">Lac</string>
+    <string name="fountains">Fontaines</string>
+    <string name="language">French</string>
+</resources>

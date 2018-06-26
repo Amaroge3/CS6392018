@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Settings</string>
+    <string name="dolphins">Dolphin Lake</string>
+    <string name="wynnLake">Wynn Lake</string>
+    <string name="tower">Tower</string>
+    <string name="lake">Lake</string>
+    <string name="fountains">Fountains</string>
+    <string name="language">English</string>
+
+
+
+</resources>
